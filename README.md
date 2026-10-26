@@ -3,10 +3,9 @@ I'm Basheer Muhammad Abbas.
 A Software Engineering student and developer from Kano, Nigeria, interested in building practical software solutions and exploring Artificial Intelligence.
 
 I enjoy learning new technologies and working on projects that solve real-world problems.
-## 📊 GitHub Statistics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-bashh&layout=compact&theme=tokyonight&hide_border=true)
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,7 +17,7 @@ I enjoy learning new technologies and working on projects that solve real-world 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 
-- My Featured Project
+## My Featured Project
 
 "Tambari Agency Management System" (https://github.com/S-bashh/tambari-agency-system)
 
@@ -26,17 +25,16 @@ A real estate agency management system designed to help manage properties, tenan
 
 Built with: PHP, MySQL, HTML, CSS, JavaScript and XAMPP.
 
+## Technologies & Tools used
 
-🛠️ Technologies & Tools
-
-- Languages: PHP, JavaScript, Python, HTML, CSS
+- Languages: PHP, JavaScript, HTML, CSS
 - Web Development: HTML5, CSS3
 - Database: MySQL
 - Tools: Git & GitHub, XAMPP
 - Currently exploring: Artificial Intelligence and AI Engineering
   
 
-🎯 My Goals
+## My Goals
 
 - Build practical and production-minded software projects.
 - Improve my software engineering and problem-solving skills.
