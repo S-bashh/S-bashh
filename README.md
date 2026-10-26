@@ -1,16 +1,36 @@
-## Hi there 👋
+I'm Basheer Muhammad Abbas.
 
-<!--
-**S-bashh/S-bashh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Software Engineering student and developer from Kano, Nigeria, interested in building practical software solutions and exploring Artificial Intelligence.
 
-Here are some ideas to get you started:
+I enjoy learning new technologies and working on projects that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured Project
+
+"Tambari Agency Management System" (https://github.com/S-bashh/tambari-agency-system)
+
+A real estate agency management system designed to help manage properties, tenants, tenancy agreements, rent payments, and agency operations.
+
+Built with: PHP, MySQL, HTML, CSS, JavaScript and XAMPP.
+
+
+🛠️ Technologies & Tools
+
+- Languages: PHP, JavaScript, Python, HTML, CSS
+- Web Development: HTML5, CSS3
+- Database: MySQL
+- Tools: Git & GitHub, XAMPP
+- Currently exploring: Artificial Intelligence and AI Engineering
+  
+
+🎯 My Goals
+
+- Build practical and production-minded software projects.
+- Improve my software engineering and problem-solving skills.
+- Develop my knowledge of Artificial Intelligence and Machine Learning.
+- Build a strong portfolio of projects with clean code and useful documentation.
+  
+
+🤝 Connect With Me
+
+- GitHub: "@S-bashh" (https://github.com/S-bashh)
+- Instagram: "@s_bash_" (https://www.instagram.com/s_bash_?dlrf=MWQydXZieXhkNGs1ag==)
