@@ -1,11 +1,11 @@
-## I'm Basheer Muhammad Abbas.
+## I'm S-Bash
 
-A Software Engineering student and developer from Kano, Nigeria, interested in building practical software solutions and exploring Artificial Intelligence.
+A Software Engineer and developer from Kano, Nigeria, interested in building practical software and exploring Artificial Intelligence.
 
 I enjoy learning new technologies and working on projects that solve real-world problems.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-bashh&layout=compact&theme=tokyonight&hide_border=true)
-## Tech Stack
+## My Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,7 +25,7 @@ A real estate agency management system designed to help manage properties, tenan
 
 Built with: PHP, MySQL, HTML, CSS, JavaScript and XAMPP.
 
-## Technologies & Tools used
+## Technologies & Tools
 
 - Languages: PHP, JavaScript, HTML, CSS
 - Web Development: HTML5, CSS3
@@ -34,13 +34,9 @@ Built with: PHP, MySQL, HTML, CSS, JavaScript and XAMPP.
 - Currently exploring: Artificial Intelligence and AI Engineering
   
 
-## My Goals
+## Learning...
 
-- Build practical and production-minded software projects.
-- Improve my software engineering and problem-solving skills.
-- Develop my knowledge of Artificial Intelligence and Machine Learning.
-- Build a strong portfolio of projects with clean code and useful documentation.
-  
+- Artificial Intelligence and Machine Learning.
 
 🤝 Connect With Me
 
