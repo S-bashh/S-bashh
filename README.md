@@ -1,4 +1,4 @@
-I'm Basheer Muhammad Abbas.
+## I'm Basheer Muhammad Abbas.
 
 A Software Engineering student and developer from Kano, Nigeria, interested in building practical software solutions and exploring Artificial Intelligence.
 
