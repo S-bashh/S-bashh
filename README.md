@@ -1,6 +1,6 @@
 ## I'm S-Bash
 
-A Software Engineer and developer from Kano, Nigeria, interested in building practical software and exploring Artificial Intelligence.
+A Software Engineer and Full-Stack Web Developer from Kano, Nigeria, interested in building practical software and exploring Artificial Intelligence.
 
 I enjoy learning new technologies and working on projects that solve real-world problems.
 
